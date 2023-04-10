@@ -5,5 +5,5 @@
 
 | Command                                                   | Task                                                                 |
 |-----------------------------------------------------------|----------------------------------------------------------------------|
-| git conig core.hooks githubHooks                          | To Use the Github Hooks                                              |
+| `git conig core.hooks githubHooks`                        | To Use the Github Hooks                                              |
 
